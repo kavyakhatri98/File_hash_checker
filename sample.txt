@@ -1,0 +1,2 @@
+This is my first cybersecurity project.
+I am learning file integrity verification.
